@@ -1,0 +1,87 @@
+{
+
+"Individual":{
+
+
+"conditions":[
+
+
+"Quantity less than 20",
+
+
+"No customization requested"
+
+
+],
+
+
+"delivery":"3-4 business days including production time",
+
+
+"source":"individuals.json"
+
+
+},
+
+
+
+"Bulk":{
+
+
+"conditions":[
+
+
+"Quantity greater than or equal to 20",
+
+"Customization requests should be calculated using customization.json"
+
+
+],
+
+
+
+"delivery":"Depends on current order queue, date would be provided in confirmation mail",
+
+
+"source":"bulk.json"
+
+
+},
+
+
+
+"Customization":{
+
+
+"conditions":[
+
+
+"Customer requests logo",
+
+
+"Customer requests printing",
+
+
+"Customer requests embroidery",
+
+
+"Customer requests body measurements",
+
+
+"Customer requests custom size"
+
+
+],
+
+
+"delivery":"Depends on customization complexity and current order queue, date would be provided in confirmation mail",
+
+
+"source":"customization.json"
+
+
+}
+
+
+
+}

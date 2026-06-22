@@ -1,0 +1,1906 @@
+[
+    {
+        "id": "DT-001",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 480,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium t-shirt made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Red",
+            "Charcoal Grey"
+        ]
+    },
+    {
+        "id": "DT-002",
+        "category": "Lower",
+        "availability": false,
+        "price_inr": 720,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "NS",
+        "description": "Premium lower made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Black",
+            "White"
+        ]
+    },
+    {
+        "id": "DT-003",
+        "category": "Track Suit",
+        "availability": true,
+        "price_inr": 1900,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium track suit made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Charcoal Grey"
+        ]
+    },
+    {
+        "id": "DT-004",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 260,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium socks made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Royal Blue",
+            "Sky Blue",
+            "Olive Green"
+        ]
+    },
+    {
+        "id": "DT-005",
+        "category": "Shorts",
+        "availability": true,
+        "price_inr": 520,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium shorts made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Black",
+            "Yellow"
+        ]
+    },
+    {
+        "id": "DT-006",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 630,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium apple cut shorts made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Bottle Green",
+            "Charcoal Grey"
+        ]
+    },
+    {
+        "id": "DT-007",
+        "category": "Supporter",
+        "availability": true,
+        "price_inr": 500,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS",
+        "description": "Premium supporter made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Bottle Green",
+            "Red",
+            "Charcoal Grey",
+            "Maroon"
+        ]
+    },
+    {
+        "id": "DT-008",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 730,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium t-shirt made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Grey",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-009",
+        "category": "Lower",
+        "availability": false,
+        "price_inr": 960,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium lower made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Royal Blue",
+            "Grey",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-010",
+        "category": "Track Suit",
+        "availability": true,
+        "price_inr": 1800,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium track suit made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Charcoal Grey",
+            "Bottle Green",
+            "Sky Blue",
+            "White"
+        ]
+    },
+    {
+        "id": "DT-011",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 160,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium socks made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Maroon",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-012",
+        "category": "Shorts",
+        "availability": true,
+        "price_inr": 420,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS",
+        "description": "Premium shorts made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Bottle Green",
+            "Sky Blue",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-013",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 520,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium apple cut shorts made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Red",
+            "Olive Green"
+        ]
+    },
+    {
+        "id": "DT-014",
+        "category": "Supporter",
+        "availability": true,
+        "price_inr": 390,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium supporter made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Orange",
+            "Sky Blue",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-015",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 620,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium t-shirt made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Olive Green",
+            "White",
+            "Black",
+            "Sky Blue"
+        ]
+    },
+    {
+        "id": "DT-016",
+        "category": "Lower",
+        "availability": true,
+        "price_inr": 860,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium lower made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Red",
+            "White",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-017",
+        "category": "Track Suit",
+        "availability": false,
+        "price_inr": 2040,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS",
+        "description": "Premium track suit made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Yellow",
+            "Black",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-018",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 400,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium socks made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Bottle Green",
+            "Navy Blue",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-019",
+        "category": "Shorts",
+        "availability": false,
+        "price_inr": 660,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium shorts made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "White",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-020",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 420,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium apple cut shorts made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Orange",
+            "Black",
+            "Grey",
+            "Royal Blue"
+        ]
+    },
+    {
+        "id": "DT-021",
+        "category": "Supporter",
+        "availability": true,
+        "price_inr": 280,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium supporter made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Black",
+            "White",
+            "Bottle Green",
+            "Maroon"
+        ]
+    },
+    {
+        "id": "DT-022",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 520,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "NS",
+        "description": "Premium t-shirt made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Navy Blue",
+            "Bottle Green",
+            "Sky Blue"
+        ]
+    },
+    {
+        "id": "DT-023",
+        "category": "Lower",
+        "availability": true,
+        "price_inr": 760,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium lower made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Charcoal Grey",
+            "Orange",
+            "Red",
+            "White"
+        ]
+    },
+    {
+        "id": "DT-024",
+        "category": "Track Suit",
+        "availability": true,
+        "price_inr": 1940,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium track suit made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Royal Blue",
+            "Bottle Green",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-025",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 300,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium socks made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Olive Green",
+            "Grey",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-026",
+        "category": "Shorts",
+        "availability": false,
+        "price_inr": 560,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium shorts made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "White",
+            "Royal Blue",
+            "Black",
+            "Grey"
+        ]
+    },
+    {
+        "id": "DT-027",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 660,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS",
+        "description": "Premium apple cut shorts made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Red",
+            "Navy Blue",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-028",
+        "category": "Supporter",
+        "availability": true,
+        "price_inr": 530,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium supporter made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Yellow",
+            "Bottle Green"
+        ]
+    },
+    {
+        "id": "DT-029",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 760,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium t-shirt made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Orange",
+            "Grey",
+            "Olive Green"
+        ]
+    },
+    {
+        "id": "DT-030",
+        "category": "Lower",
+        "availability": true,
+        "price_inr": 650,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium lower made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "White"
+        ]
+    },
+    {
+        "id": "DT-031",
+        "category": "Track Suit",
+        "availability": false,
+        "price_inr": 1840,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium track suit made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Yellow",
+            "Bottle Green",
+            "Red",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-032",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 190,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "NS",
+        "description": "Premium socks made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Orange",
+            "Navy Blue",
+            "Yellow",
+            "Bottle Green"
+        ]
+    },
+    {
+        "id": "DT-033",
+        "category": "Shorts",
+        "availability": true,
+        "price_inr": 460,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium shorts made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Royal Blue",
+            "Red",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-034",
+        "category": "Apple Cut Shorts",
+        "availability": false,
+        "price_inr": 560,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium apple cut shorts made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Grey",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-035",
+        "category": "Supporter",
+        "availability": true,
+        "price_inr": 420,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium supporter made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Orange",
+            "Yellow",
+            "White",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-036",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 660,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium t-shirt made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Navy Blue",
+            "Maroon",
+            "Black",
+            "Grey"
+        ]
+    },
+    {
+        "id": "DT-037",
+        "category": "Lower",
+        "availability": false,
+        "price_inr": 900,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS",
+        "description": "Premium lower made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Grey",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-038",
+        "category": "Track Suit",
+        "availability": true,
+        "price_inr": 2080,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium track suit made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "White",
+            "Olive Green",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-039",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 440,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium socks made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Black",
+            "Royal Blue",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-040",
+        "category": "Shorts",
+        "availability": true,
+        "price_inr": 350,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium shorts made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Olive Green",
+            "Royal Blue",
+            "Charcoal Grey",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-041",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 460,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium apple cut shorts made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-042",
+        "category": "Supporter",
+        "availability": false,
+        "price_inr": 320,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS",
+        "description": "Premium supporter made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Grey",
+            "Olive Green"
+        ]
+    },
+    {
+        "id": "DT-043",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 560,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium t-shirt made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Orange",
+            "Yellow"
+        ]
+    },
+    {
+        "id": "DT-044",
+        "category": "Lower",
+        "availability": true,
+        "price_inr": 790,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium lower made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Olive Green",
+            "Black",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-045",
+        "category": "Track Suit",
+        "availability": true,
+        "price_inr": 1980,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium track suit made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Royal Blue",
+            "Sky Blue",
+            "Maroon"
+        ]
+    },
+    {
+        "id": "DT-046",
+        "category": "Socks",
+        "availability": false,
+        "price_inr": 330,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium socks made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Charcoal Grey",
+            "Olive Green",
+            "Yellow"
+        ]
+    },
+    {
+        "id": "DT-047",
+        "category": "Shorts",
+        "availability": true,
+        "price_inr": 600,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "NS",
+        "description": "Premium shorts made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "White",
+            "Red",
+            "Maroon"
+        ]
+    },
+    {
+        "id": "DT-048",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 700,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium apple cut shorts made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Red",
+            "Black",
+            "Maroon",
+            "Sky Blue"
+        ]
+    },
+    {
+        "id": "DT-049",
+        "category": "Supporter",
+        "availability": false,
+        "price_inr": 560,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium supporter made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Navy Blue",
+            "Charcoal Grey"
+        ]
+    },
+    {
+        "id": "DT-050",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 450,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium t-shirt made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Orange",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-051",
+        "category": "Lower",
+        "availability": true,
+        "price_inr": 680,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium lower made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "White",
+            "Yellow"
+        ]
+    },
+    {
+        "id": "DT-052",
+        "category": "Track Suit",
+        "availability": false,
+        "price_inr": 1870,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS",
+        "description": "Premium track suit made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Black",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-053",
+        "category": "Socks",
+        "availability": false,
+        "price_inr": 220,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium socks made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Yellow",
+            "Bottle Green",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-054",
+        "category": "Shorts",
+        "availability": true,
+        "price_inr": 490,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium shorts made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Navy Blue",
+            "Grey",
+            "Maroon"
+        ]
+    },
+    {
+        "id": "DT-055",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 600,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium apple cut shorts made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Royal Blue",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-056",
+        "category": "Supporter",
+        "availability": true,
+        "price_inr": 460,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium supporter made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Navy Blue",
+            "Maroon"
+        ]
+    },
+    {
+        "id": "DT-057",
+        "category": "T-Shirt",
+        "availability": false,
+        "price_inr": 700,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS",
+        "description": "Premium t-shirt made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Orange",
+            "Yellow",
+            "Royal Blue",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-058",
+        "category": "Lower",
+        "availability": true,
+        "price_inr": 930,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium lower made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Yellow"
+        ]
+    },
+    {
+        "id": "DT-059",
+        "category": "Track Suit",
+        "availability": true,
+        "price_inr": 2120,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium track suit made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Bottle Green",
+            "Royal Blue",
+            "Charcoal Grey"
+        ]
+    },
+    {
+        "id": "DT-060",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 120,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium socks made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Bottle Green",
+            "Maroon"
+        ]
+    },
+    {
+        "id": "DT-061",
+        "category": "Shorts",
+        "availability": false,
+        "price_inr": 380,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium shorts made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Charcoal Grey",
+            "Maroon",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-062",
+        "category": "Apple Cut Shorts",
+        "availability": false,
+        "price_inr": 490,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS",
+        "description": "Premium apple cut shorts made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Grey",
+            "Bottle Green",
+            "Yellow",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-063",
+        "category": "Supporter",
+        "availability": true,
+        "price_inr": 360,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium supporter made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Royal Blue",
+            "Charcoal Grey",
+            "Yellow"
+        ]
+    },
+    {
+        "id": "DT-064",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 590,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium t-shirt made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Royal Blue",
+            "White",
+            "Sky Blue",
+            "Bottle Green"
+        ]
+    },
+    {
+        "id": "DT-065",
+        "category": "Lower",
+        "availability": true,
+        "price_inr": 820,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium lower made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Royal Blue",
+            "White",
+            "Maroon"
+        ]
+    },
+    {
+        "id": "DT-066",
+        "category": "Track Suit",
+        "availability": true,
+        "price_inr": 2010,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium track suit made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Orange",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-067",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 360,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS",
+        "description": "Premium socks made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Charcoal Grey",
+            "White",
+            "Navy Blue",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-068",
+        "category": "Shorts",
+        "availability": false,
+        "price_inr": 630,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium shorts made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Black",
+            "Navy Blue",
+            "Bottle Green",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-069",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 740,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium apple cut shorts made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Black",
+            "Charcoal Grey",
+            "Grey"
+        ]
+    },
+    {
+        "id": "DT-070",
+        "category": "Supporter",
+        "availability": false,
+        "price_inr": 250,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium supporter made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Orange",
+            "Sky Blue",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-071",
+        "category": "T-Shirt",
+        "availability": false,
+        "price_inr": 480,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium t-shirt made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Yellow",
+            "Black",
+            "Orange",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-072",
+        "category": "Lower",
+        "availability": false,
+        "price_inr": 720,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS",
+        "description": "Premium lower made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Red",
+            "Royal Blue",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-073",
+        "category": "Track Suit",
+        "availability": true,
+        "price_inr": 1900,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium track suit made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Bottle Green",
+            "Red",
+            "Navy Blue",
+            "Grey"
+        ]
+    },
+    {
+        "id": "DT-074",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 260,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium socks made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Yellow",
+            "Black",
+            "White"
+        ]
+    },
+    {
+        "id": "DT-075",
+        "category": "Shorts",
+        "availability": true,
+        "price_inr": 520,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium shorts made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Charcoal Grey",
+            "Grey",
+            "Bottle Green"
+        ]
+    },
+    {
+        "id": "DT-076",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 630,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium apple cut shorts made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "White",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-077",
+        "category": "Supporter",
+        "availability": true,
+        "price_inr": 500,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS",
+        "description": "Premium supporter made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Olive Green",
+            "Black",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-078",
+        "category": "T-Shirt",
+        "availability": false,
+        "price_inr": 730,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium t-shirt made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Orange",
+            "Charcoal Grey",
+            "Yellow"
+        ]
+    },
+    {
+        "id": "DT-079",
+        "category": "Lower",
+        "availability": true,
+        "price_inr": 960,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium lower made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Grey",
+            "Orange",
+            "Yellow",
+            "Royal Blue"
+        ]
+    },
+    {
+        "id": "DT-080",
+        "category": "Track Suit",
+        "availability": false,
+        "price_inr": 1800,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium track suit made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Red",
+            "White"
+        ]
+    },
+    {
+        "id": "DT-081",
+        "category": "Socks",
+        "availability": false,
+        "price_inr": 160,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium socks made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Bottle Green",
+            "Royal Blue",
+            "Grey"
+        ]
+    },
+    {
+        "id": "DT-082",
+        "category": "Shorts",
+        "availability": true,
+        "price_inr": 420,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "NS",
+        "description": "Premium shorts made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Grey",
+            "Charcoal Grey",
+            "Olive Green",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-083",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 520,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium apple cut shorts made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Bottle Green",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-084",
+        "category": "Supporter",
+        "availability": true,
+        "price_inr": 390,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium supporter made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Red",
+            "Maroon",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-085",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 620,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium t-shirt made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Navy Blue",
+            "Black"
+        ]
+    },
+    {
+        "id": "DT-086",
+        "category": "Lower",
+        "availability": true,
+        "price_inr": 860,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium lower made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Bottle Green",
+            "Olive Green",
+            "Sky Blue"
+        ]
+    },
+    {
+        "id": "DT-087",
+        "category": "Track Suit",
+        "availability": true,
+        "price_inr": 2040,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS",
+        "description": "Premium track suit made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Charcoal Grey",
+            "Yellow",
+            "Navy Blue",
+            "Orange"
+        ]
+    },
+    {
+        "id": "DT-088",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 400,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium socks made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Navy Blue",
+            "Olive Green"
+        ]
+    },
+    {
+        "id": "DT-089",
+        "category": "Shorts",
+        "availability": true,
+        "price_inr": 660,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium shorts made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Red",
+            "Charcoal Grey",
+            "Maroon",
+            "Royal Blue"
+        ]
+    },
+    {
+        "id": "DT-090",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 420,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium apple cut shorts made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "White",
+            "Maroon",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-091",
+        "category": "Supporter",
+        "availability": false,
+        "price_inr": 280,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium supporter made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Yellow",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-092",
+        "category": "T-Shirt",
+        "availability": false,
+        "price_inr": 520,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS",
+        "description": "Premium t-shirt made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Maroon",
+            "Orange",
+            "Red",
+            "Grey"
+        ]
+    },
+    {
+        "id": "DT-093",
+        "category": "Lower",
+        "availability": true,
+        "price_inr": 760,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium lower made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Grey"
+        ]
+    },
+    {
+        "id": "DT-094",
+        "category": "Track Suit",
+        "availability": true,
+        "price_inr": 1940,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium track suit made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Olive Green",
+            "Grey",
+            "Navy Blue"
+        ]
+    },
+    {
+        "id": "DT-095",
+        "category": "Socks",
+        "availability": true,
+        "price_inr": 300,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium socks made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Black",
+            "Charcoal Grey",
+            "Red"
+        ]
+    },
+    {
+        "id": "DT-096",
+        "category": "Shorts",
+        "availability": false,
+        "price_inr": 560,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "Lycra 4 Way",
+        "description": "Premium shorts made using Lycra 4 Way, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Charcoal Grey",
+            "Grey",
+            "Bottle Green"
+        ]
+    },
+    {
+        "id": "DT-097",
+        "category": "Apple Cut Shorts",
+        "availability": true,
+        "price_inr": 660,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS",
+        "description": "Premium apple cut shorts made using NS, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Red",
+            "Maroon",
+            "Orange",
+            "Grey"
+        ]
+    },
+    {
+        "id": "DT-098",
+        "category": "Supporter",
+        "availability": true,
+        "price_inr": 530,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "fabric": "NS Premium",
+        "description": "Premium supporter made using NS Premium, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Sky Blue",
+            "Olive Green",
+            "Yellow"
+        ]
+    },
+    {
+        "id": "DT-099",
+        "category": "T-Shirt",
+        "availability": true,
+        "price_inr": 760,
+        "sizes_available": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "fabric": "1.5 Mtr Super Poly",
+        "description": "Premium t-shirt made using 1.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Yellow",
+            "Bottle Green",
+            "Grey"
+        ]
+    },
+    {
+        "id": "DT-100",
+        "category": "Lower",
+        "availability": false,
+        "price_inr": 650,
+        "sizes_available": [
+            "S",
+            "M",
+            "L"
+        ],
+        "fabric": "2.5 Mtr Super Poly",
+        "description": "Premium lower made using 2.5 Mtr Super Poly, suitable for sports, training and team wear.",
+        "colors_available": [
+            "Charcoal Grey",
+            "White",
+            "Orange",
+            "Bottle Green"
+        ]
+    }
+]
