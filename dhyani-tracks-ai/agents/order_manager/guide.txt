@@ -1,0 +1,23 @@
+This is a simple local usage guide for the Order Manager agent.
+
+What the agent is for:
+- The project is an order manager for a sportswear business.
+- It receives a customer email and a chat history describing product needs.
+- It uses a Gemini model to understand the request and decide how to proceed.
+
+What the model needs to run locally:
+- The project must include the `order_manager.py` entry point and `session_manager.py` session helper.
+- The local MCP server must be available in the `mcp_server` folder with its `server.py` and JSON data files.
+- The model works by reading the customer email and chat history from a local input file.
+- It also uses the local server data to look up available items, customization rules, bulk pricing, and order templates.
+
+API keys and local setup:
+- The agent uses one or more Gemini API keys from the environment.
+- It supports a primary key plus backup keys, so if one key is rate-limited the next key is tried.
+- This lets the project keep working while avoiding single-key failures.
+- Keep the real API keys private and share only an example or placeholder configuration file in the repository.
+
+What the agent produces:
+- The output is a structured result written to a local output file.
+- It gives availability status, calculated pricing, whether customization or bulk purchase applies, purchase success, suggestions, and a note for the next agent.
+- The output is intended for other systems or colleagues to read, not for direct chat conversation.
