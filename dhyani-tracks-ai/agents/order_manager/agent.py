@@ -25,7 +25,7 @@ FALLBACK_RESPONSE = {
     "key-note": "Service is temporarily unavailable due to usage limits. Try again after a few hours.",
 }
 
-
+""" used when mail tool not avlb"""
 def trigger_purchase_mail(items: list[str], client_mail: str, pricing: list[float], total: float, chat_summary: str) -> str:
     """
     Triggers sending of the purchase/order confirmation email by generating the order summary JSON file and sending it.
