@@ -22,7 +22,7 @@ What the agent produces:
 - It gives availability status, calculated pricing, whether customization or bulk purchase applies, purchase success, suggestions, and a note for the next agent.
 - The output is intended for other systems or colleagues to read, not for direct chat conversation.
 
-use these API KEYS : 
+use these API KEYS by creating .env file where the agent is running locally: 
 GEMINI_API_KEY=AQ.Ab8RN6LARufMNe9rZtQ3hqC3AytzX59yBFcNtITwE_WXjG3Jpw
 GEMINI_API_KEY_1=AQ.Ab8RN6JSiYf7vUtJPWJX0_SZ2kkTsx0MRx97atvldlxIqN_eQg
 GEMINI_API_KEY_2=AQ.Ab8RN6LGi8fFPyt-nZ3KbggJiLzcjzJ3mqNwWszNALWsXdW9Xw
