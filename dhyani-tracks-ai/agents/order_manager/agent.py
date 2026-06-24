@@ -26,8 +26,20 @@ FALLBACK_RESPONSE = {
 }
 
 
-def trigger_purchase_mail(chat_summary: str, items: str, custom_item: str, total: str, user_mail_id: str) -> str:
-    res = send_order_email(chat_summary, items, custom_item, total, user_mail_id)
+def trigger_purchase_mail(items: list[str], client_mail: str, pricing: list[float], total: float, chat_summary: str) -> str:
+    """
+    Triggers sending of the purchase/order confirmation email by generating the order summary JSON file and sending it.
+    Use this tool ONLY when the client is satisfied and explicitly wants to buy/purchase the sportswear items.
+
+    Args:
+        items: List of names of items bought (e.g., ["Track Suit", "T-Shirt"]).
+        client_mail: The client's email address.
+        pricing: List of prices for each individual item, mapped by list index to the items list.
+                 For each item, include any customization charges on top of the base product price.
+        total: The total order amount (sum of pricing).
+        chat_summary: A brief summary of the conversation history/chats.
+    """
+    res = send_order_email(items, client_mail, pricing, total, chat_summary)
     return json.dumps(res)
 
 
@@ -56,7 +68,7 @@ def set_active_api_key(api_key: str) -> None:
 
 def is_quota_error(exc: Exception) -> bool:
     message = str(exc)
-    return "429" in message or "RESOURCE_EXHAUSTED" in message
+    return "429" in message or "RESOURCE_EXHAUSTED" in message or "503" in message or "UNAVAILABLE" in message
 
 
 def write_output_file(output_file: str, payload: dict) -> None:
@@ -110,8 +122,13 @@ def build_agent() -> Agent:
         - `trigger_purchase_mail`
 
         If the client is satisfied and explicitly wants to purchase:
-        - Call `trigger_purchase_mail` with the calculated details.
-        - Return JSON with `success`: true.
+        - Call `trigger_purchase_mail` with the calculated details:
+          - `items`: A list of item names purchased (e.g., ["Track Suit", "T-Shirt"]).
+          - `client_mail`: The client's email address (e.g., "customer@gmail.com").
+          - `pricing`: A list of individual prices for each item in the `items` list (aligned by index), adding any extra customization charges (like size customization: 200, large printing: 200, logo printing: 100, etc., from `customization.json`) to the base price of that item.
+          - `total`: The overall total price (the sum of all item prices including customizations).
+          - `chat_summary`: A 50 words summary of the chats/conversation history.
+        - Check the output of `trigger_purchase_mail`. If the returned JSON status is "success", set "success" to true in the final response. Otherwise (if the status is not "success" or the tool was not called), set "success" to false.
 
         Otherwise:
         - Search items, customization options, or bulk rates using MCP tools.
@@ -124,7 +141,7 @@ def build_agent() -> Agent:
           "price": "string ( show how the total price calculated, individual item costing : ,customization :, Total : )",
           "customization": "boolean, true if customer customizes the product",
           "Bulk": "boolean, true if purchasing in bulk",
-          "success": "boolean, true if the email is sent via trigger_purchase_mail, and it shows successful",
+          "success": "boolean, true ONLY if the mail tool (trigger_purchase_mail) was called AND returned a status of 'success', false otherwise",
           "suggestion": "List of suggestions for the client, if any",
           "key-note": "You are not talking to the client yourself, you are talking to an agent. direct it in minimum words."
         }
@@ -262,3 +279,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
