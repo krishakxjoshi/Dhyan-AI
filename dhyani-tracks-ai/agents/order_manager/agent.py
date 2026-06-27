@@ -178,8 +178,8 @@ def run_agent_for_key(api_key: str, email: str, prompt: str) -> str | None:
 
 
 async def main():
-    input_file = "input.json"
-    output_file = "output.json"
+    input_file = os.getenv("DHYAN_INPUT_FILE", "input.json")
+    output_file = os.getenv("DHYAN_OUTPUT_FILE", "output.json")
 
     if not os.path.exists(input_file):
         print(f"Error: {input_file} not found.")
