@@ -1,0 +1,9 @@
+for google authentication:
+
+1. go to google cloud website. (""https://console.cloud.google.com/welcome?project=integral-vim-500318-r7)
+2. login on this wesite.
+3. then go to API and services.
+4. then search for GMail on that page or scroll down and find out.
+5. find the credentials and create the credentials and then download and then place the download file on that folder where the mail tool python code exists.
+6. then on google cloud window find the OAuth cosent screen on that page.
+7. then go to audience then scroll down and add test user from your email address.
